@@ -1,10 +1,10 @@
-# OnboardIQ
+# Smart Onboard
 
 Smarter starts for better learning journeys.
 
 ## Overview
 
-OnboardIQ is an AI-powered onboarding assistant that assesses student skill level, predicts retention, and enables personalized learning before the first lesson.
+Smart Onboard is an AI-powered onboarding assistant that assesses student skill level, predicts retention, and enables personalized learning before the first lesson.
 
 Instead of static forms, learners interact with an AI agent that gathers insights through conversation, combining responses, sentiment, and behavioral signals into actionable outputs.
 
