@@ -27,7 +27,7 @@ Instead of static forms, learners interact with an AI agent that gathers insight
 - Early identification of high-retention users  
 - Improved matching and personalization  
 
-We already collect most of this data during onboarding — this approach enhances it with sentiment analysis and behavioral biomarkers.
+We already collect most of this data during onboarding, this approach enhances it with sentiment analysis and behavioral biomarkers.
 
 ---
 
